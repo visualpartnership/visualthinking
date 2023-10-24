@@ -1,3 +1,5 @@
+![Ilustración_sin_título](https://github.com/visualpartnership/visualthinking/assets/17634377/fa023436-facd-44af-b48f-176c83512a15)
+
 # Visual Thinking Trainings 🎨
 
 <table width="100%" center>
