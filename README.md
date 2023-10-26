@@ -1,4 +1,4 @@
-![image](https://github.com/visualpartnership/visualthinking/assets/17634377/ef90b9e2-d46b-4110-b128-5ad174bfd45e)![Ilustración_sin_título](https://github.com/visualpartnership/visualthinking/assets/17634377/fa023436-facd-44af-b48f-176c83512a15)
+![Ilustración_sin_título](https://github.com/visualpartnership/visualthinking/assets/17634377/fa023436-facd-44af-b48f-176c83512a15)
 
 # Visual Thinking Trainings 🎨
 
