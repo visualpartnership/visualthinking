@@ -1,4 +1,4 @@
-![Ilustración_sin_título](https://github.com/visualpartnership/visualthinking/assets/17634377/fa023436-facd-44af-b48f-176c83512a15)
+![image](https://github.com/visualpartnership/visualthinking/assets/17634377/ef90b9e2-d46b-4110-b128-5ad174bfd45e)![Ilustración_sin_título](https://github.com/visualpartnership/visualthinking/assets/17634377/fa023436-facd-44af-b48f-176c83512a15)
 
 # Visual Thinking Trainings 🎨
 
@@ -33,9 +33,9 @@
 
   <tr> 
     <td width="50%" center> 
-      <a href="https://github.com/visualpartnership/formasdeilustrarunreflejo">Workshop for GitHub Octogatos 2020 | English 🔗</a>
+      <a href="https://github.com/visualpartnership/octogatos-workshop">Workshop for GitHub Octogatos 2020 | English 🔗</a>
     </td>
-    <td><img src="https://github.com/visualpartnership/octogatos-workshop/assets/17634377/acfc3df6-04d7-451a-80f5-649868b9672b"/></td>
+    <td><img src="https://github.com/visualpartnership/octogatos-workshop/raw/main/assets/slide-001.png"/></td>
   </tr>
 
   <tr> 
