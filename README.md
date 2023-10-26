@@ -16,21 +16,6 @@
     </td>
     <td><img src="https://user-images.githubusercontent.com/17634377/208792484-e627274b-85cc-4959-928e-6661d301ecfd.png"/></td>
   </tr>
-
-  <tr> 
-    <td width="50%" center> 
-      <a href="https://github.com/visualpartnership/formasdeilustrarunreflejo">1er Workshop Visual Thinking 2020 | Spanish 🔗</a>
-    </td>
-    <td><img src="https://github.com/visualpartnership/introworkshop/assets/17634377/7d3f93c3-3972-4be7-8da4-010e58949d06"/></td>
-  </tr>
-
-  <tr> 
-    <td width="50%" center> 
-      <a href="https://github.com/visualpartnership/formasdeilustrarunreflejo">Workshop for GitHub Octogatos 2020 | English 🔗</a>
-    </td>
-    <td><img src="https://github.com/visualpartnership/octogatos-workshop/assets/17634377/acfc3df6-04d7-451a-80f5-649868b9672b"/></td>
-  </tr>
-
   
   <tr> 
     <td width="50%" center> 
@@ -41,8 +26,24 @@
 
   <tr> 
     <td width="50%" center> 
-      <a href="https://github.com/visualpartnership/aprendizajeremoto">Aprendizaje Remoto 🔗</a>
+      <a href="https://github.com/visualpartnership/aprendizajeremoto">Aprendizaje Remoto 2020 🔗</a>
     </td>
     <td><img src="https://raw.githubusercontent.com/visualpartnership/aprendizajeremoto/main/assets/slide_000.png"/></td>
   </tr>
+
+  <tr> 
+    <td width="50%" center> 
+      <a href="https://github.com/visualpartnership/formasdeilustrarunreflejo">Workshop for GitHub Octogatos 2020 | English 🔗</a>
+    </td>
+    <td><img src="https://github.com/visualpartnership/octogatos-workshop/assets/17634377/acfc3df6-04d7-451a-80f5-649868b9672b"/></td>
+  </tr>
+
+  <tr> 
+    <td width="50%" center> 
+      <a href="https://github.com/visualpartnership/introworkshop">1er Workshop Visual Thinking 2020 | Spanish 🔗</a>
+    </td>
+    <td><img src="https://github.com/visualpartnership/introworkshop/raw/main/assets/slide_000.png"/></td>
+  </tr>
+
 </table>
+
