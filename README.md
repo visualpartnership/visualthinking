@@ -14,7 +14,7 @@
     <td width="50%" center> 
       <a href="https://github.com/visualpartnership/introworkshop">Intro to Visual Thinking Basics | English 🔗</a>
     </td>
-    <td><img src="https://github.com/visualpartnership/visualthinking/assets/17634377/5a6334e7-7a29-4bc0-a45c-d39656c419ce"/></td>
+    <td><img src="https://github.com/visualpartnership/introworkshop/raw/main/assets/slide_000.png"/></td>
   </tr>
 
   <tr> 
