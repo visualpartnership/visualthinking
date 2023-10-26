@@ -12,7 +12,7 @@
   
   <tr> 
     <td width="50%" center> 
-      <a href="https://github.com/visualpartnership/visual-thinking-workshop">Intro to Visual Thinking Basics | English 🔗</a>
+      <a href="https://github.com/visualpartnership/introworkshop">Intro to Visual Thinking Basics | English 🔗</a>
     </td>
     <td><img src="https://github.com/visualpartnership/visualthinking/assets/17634377/5a6334e7-7a29-4bc0-a45c-d39656c419ce"/></td>
   </tr>
@@ -29,5 +29,13 @@
       <a href="https://github.com/visualpartnership/formasdeilustrarunreflejo">Workshop for GitHub Octogatos | English 🔗</a>
     </td>
     <td><img src="https://github.com/visualpartnership/octogatos-workshop/assets/17634377/acfc3df6-04d7-451a-80f5-649868b9672b"/></td>
+  </tr>
+
+  
+  <tr> 
+    <td width="50%" center> 
+      <a href="https://github.com/visualpartnership/curso-pensamiento-visual-2020">Curso Visual Thinking 2020 🔗</a>
+    </td>
+    <td><img src="https://user-images.githubusercontent.com/17634377/278188558-f9e7d978-a837-42e0-94ed-31ccee370f7e.png"/></td>
   </tr>
 </table>
