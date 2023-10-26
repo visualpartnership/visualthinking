@@ -38,4 +38,11 @@
     </td>
     <td><img src="https://user-images.githubusercontent.com/17634377/278188558-f9e7d978-a837-42e0-94ed-31ccee370f7e.png"/></td>
   </tr>
+
+  <tr> 
+    <td width="50%" center> 
+      <a href="https://github.com/visualpartnership/aprendizajeremoto">Aprendizaje Remoto 🔗</a>
+    </td>
+    <td><img src="https://raw.githubusercontent.com/visualpartnership/aprendizajeremoto/main/assets/slide_000.png"/></td>
+  </tr>
 </table>
