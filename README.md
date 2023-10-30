@@ -16,6 +16,13 @@
     </td>
     <td><img src="https://user-images.githubusercontent.com/17634377/208792484-e627274b-85cc-4959-928e-6661d301ecfd.png"/></td>
   </tr>
+
+   <tr> 
+    <td width="50%" center> 
+      <a href="https://github.com/visualpartnership/designthinking">Design Thinking + Visual Thinking 2021 🔗</a>
+    </td>
+    <td><img src="https://github.com/visualpartnership/designthinking/raw/main/assets/1.png"/></td>
+  </tr>
   
   <tr> 
     <td width="50%" center> 
