@@ -17,6 +17,13 @@
     <td><img src="https://user-images.githubusercontent.com/17634377/208792484-e627274b-85cc-4959-928e-6661d301ecfd.png"/></td>
   </tr>
 
+  <tr> 
+    <td width="50%" center> 
+      <a href="https://github.com/visualpartnership/public-speaking">Public Speaking 2022 🔗</a>
+    </td>
+    <td><img src="https://user-images.githubusercontent.com/17634377/210303711-ae70aeb7-0743-44bf-9595-8f7e47f8b5d1.png"/></td>
+  </tr>
+
    <tr> 
     <td width="50%" center> 
       <a href="https://github.com/visualpartnership/designthinking">Design Thinking + Visual Thinking 2021 🔗</a>
